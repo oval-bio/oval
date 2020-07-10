@@ -1,4 +1,4 @@
-# oval.bio
+# oval
 open source hardware from oval.bio
 
 current_ranger.ino is source code for the stock firmware.
