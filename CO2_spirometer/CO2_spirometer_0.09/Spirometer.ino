@@ -11,7 +11,7 @@
 //differential air pressure sensor input should be connected to A0
 
 #include <SoftwareSerial.h>
-SoftwareSerial mySerial(12, 11); // RX, TX
+SoftwareSerial mySerial(12, 13); // RX, TX
 
 unsigned char hexdata[9] = {0xFF, 0x01, 0x86, 0x00, 0x00, 0x00, 0x00, 0x00, 0x79};
 
